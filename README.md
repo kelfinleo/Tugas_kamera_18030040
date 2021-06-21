@@ -1,0 +1,1 @@
+# Tugas_kamera_18030040
