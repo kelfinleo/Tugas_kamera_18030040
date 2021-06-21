@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Tugas_kamera_18030040"
